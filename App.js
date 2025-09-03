@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Augmented Architecture Tour</h1>
-        <p>Willkommen zur interaktiven Tour durch historische Gebäude mit Augmented Reality!</p>
+        <p>Welcome to the interactive tour of historical buildings with Augmented Reality!</p>
       </header>
     </div>
   );
