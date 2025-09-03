@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to the Augmented Architecture Experience</h1>
-        <p>Explore historical buildings using Augmented Reality!</p>
+        <h1>Welcome to the Augmented Architecture Experience!</h1>
+        <p>Explore historical buildings through Augmented Reality technology!</p>
       </header>
     </div>
   );
