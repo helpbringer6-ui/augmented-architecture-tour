@@ -18,7 +18,7 @@ body {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  padding: 40px;
+  padding: 20px; /* Changed from 40px to 20px */
 }
 
 @media (max-width: 600px) {
