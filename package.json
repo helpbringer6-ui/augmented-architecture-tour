@@ -1,0 +1,31 @@
+{
+  "name": "augmented-architecture-tour",
+  "version": "1.0.0",
+  "description": "Eine Augmented Reality Anwendung für historische Architektur-Touren",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "three": "^0.124.0",
+    "@react-three/fiber": "^6.0.19",
+    "@react-three/drei": "^6.0.1",
+    "@react-native-arkit/arkit": "^0.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Augmented Reality",
+    "Architektur",
+    "Bildung",
+    "Interaktive Tour",
+    "Mobile App"
+  ],
+  "author": "Ihr Name",
+  "license": "MIT"
+}
